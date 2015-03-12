@@ -1,0 +1,7 @@
+// choose all and request tuning
+
+javascript: $($('input[type=button]')[0]).click();$('input[type=submit]').click()
+
+// choose option for iphone5 and thumbneil
+
+javascript: $("#iphone5").click();$("#thumbnail").click();check()
